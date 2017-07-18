@@ -1,0 +1,21 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.mhog.mobilehiddenobjectgames14cs6190d8d7.activities.StageActivity">
+
+
+    <item
+        android:id="@+id/action_hint"
+        android:title="Hint" />
+    <item
+        android:id="@+id/action_objects"
+        android:title="Object List" />
+    <item
+        android:id="@+id/action_save"
+        android:title="Save" />
+    <item
+        android:id="@+id/action_exit"
+        android:title="Exit" />
+
+
+</menu>

@@ -1,0 +1,67 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="0dp"
+    android:layout_margin="0dp"
+    tools:context="com.mhog.mobilehiddenobjectgames14cs6190d8d7.activities.StageActivity"
+    android:background="#909090">
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:id="@+id/flingamemenu"
+        android:background="@drawable/bottompanel_full">
+
+
+        <Button
+            android:layout_width="100dp"
+            android:layout_height="30dp"
+            android:text="Hint - 2"
+            android:id="@+id/btnHint"
+            android:background="@drawable/ingamebutton"
+            android:textColor="#FFFFFF"
+            android:layout_centerVertical="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"
+            android:layout_marginRight="12dp"
+            android:layout_marginEnd="12dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="T: 0"
+            android:id="@+id/tvCountDown"
+            android:textColor="#FFFFFF"
+            android:textSize="20dp"
+            android:layout_marginLeft="28dp"
+            android:layout_marginStart="28dp"
+            android:layout_centerVertical="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="S: 0"
+            android:id="@+id/tvScore"
+            android:textColor="#FFFFFF"
+            android:layout_centerVertical="true"
+            android:layout_toLeftOf="@+id/btnHint"
+            android:layout_toStartOf="@+id/btnHint"
+            android:layout_marginRight="20dp"
+            android:textSize="20sp" />
+    </RelativeLayout>
+
+
+    <FrameLayout
+        android:id="@+id/flgamesecne"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_above="@+id/flingamemenu" />
+</RelativeLayout>

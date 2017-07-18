@@ -1,0 +1,192 @@
+{"frames": {
+
+"Baby doll.png":
+{
+	"frame": {"x":303,"y":2,"w":48,"h":55},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":48,"h":55},
+	"sourceSize": {"w":48,"h":55},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Bird House.png":
+{
+	"frame": {"x":376,"y":60,"w":44,"h":87},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":44,"h":87},
+	"sourceSize": {"w":44,"h":87},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Bone.png":
+{
+	"frame": {"x":2,"y":60,"w":34,"h":62},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":34,"h":62},
+	"sourceSize": {"w":34,"h":62},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Clips.png":
+{
+	"frame": {"x":46,"y":2,"w":18,"h":23},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":18,"h":23},
+	"sourceSize": {"w":18,"h":23},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Drawing.png":
+{
+	"frame": {"x":197,"y":2,"w":51,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":51,"h":43},
+	"sourceSize": {"w":51,"h":43},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Garlic.png":
+{
+	"frame": {"x":2,"y":2,"w":23,"h":21},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":23,"h":21},
+	"sourceSize": {"w":23,"h":21},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Green Parrot.png":
+{
+	"frame": {"x":140,"y":60,"w":32,"h":76},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":76},
+	"sourceSize": {"w":32,"h":76},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Hat.png":
+{
+	"frame": {"x":174,"y":60,"w":49,"h":79},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":49,"h":79},
+	"sourceSize": {"w":49,"h":79},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Leaf.png":
+{
+	"frame": {"x":66,"y":2,"w":25,"h":26},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":25,"h":26},
+	"sourceSize": {"w":25,"h":26},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Monkey Head.png":
+{
+	"frame": {"x":90,"y":60,"w":48,"h":73},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":48,"h":73},
+	"sourceSize": {"w":48,"h":73},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Movie Projector.png":
+{
+	"frame": {"x":38,"y":60,"w":50,"h":65},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":65},
+	"sourceSize": {"w":50,"h":65},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Oil Lamp.png":
+{
+	"frame": {"x":174,"y":2,"w":21,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":21,"h":43},
+	"sourceSize": {"w":21,"h":43},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Open Book.png":
+{
+	"frame": {"x":120,"y":2,"w":52,"h":36},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":52,"h":36},
+	"sourceSize": {"w":52,"h":36},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Race Flag.png":
+{
+	"frame": {"x":93,"y":2,"w":25,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":25,"h":32},
+	"sourceSize": {"w":25,"h":32},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Rose.png":
+{
+	"frame": {"x":225,"y":60,"w":52,"h":80},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":52,"h":80},
+	"sourceSize": {"w":52,"h":80},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Star.png":
+{
+	"frame": {"x":27,"y":2,"w":17,"h":23},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":17,"h":23},
+	"sourceSize": {"w":17,"h":23},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Swan.png":
+{
+	"frame": {"x":279,"y":60,"w":47,"h":83},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":47,"h":83},
+	"sourceSize": {"w":47,"h":83},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Table Clock.png":
+{
+	"frame": {"x":250,"y":2,"w":51,"h":52},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":51,"h":52},
+	"sourceSize": {"w":51,"h":52},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Table Lamp.png":
+{
+	"frame": {"x":328,"y":60,"w":46,"h":85},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":46,"h":85},
+	"sourceSize": {"w":46,"h":85},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"White Parrot.png":
+{
+	"frame": {"x":353,"y":2,"w":50,"h":56},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":56},
+	"sourceSize": {"w":50,"h":56},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "sheet9.png",
+	"format": "RGBA8888",
+	"size": {"w":422,"h":158},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:5eef4cfb32d1f02501521122738a3d35:6a0342ab2d0fe85a5bfd7065a7c0aeec:40df48d7b80020ad4a622f2f546a8093$"
+}
+}

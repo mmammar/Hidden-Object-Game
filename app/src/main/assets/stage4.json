@@ -1,0 +1,192 @@
+{"frames": {
+
+"BB Gun.png":
+{
+	"frame": {"x":87,"y":330,"w":18,"h":130},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":18,"h":130},
+	"sourceSize": {"w":18,"h":130},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Beach Umbrella.png":
+{
+	"frame": {"x":48,"y":102,"w":35,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":35,"h":43},
+	"sourceSize": {"w":35,"h":43},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Broken Sculpture.png":
+{
+	"frame": {"x":2,"y":102,"w":44,"h":37},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":44,"h":37},
+	"sourceSize": {"w":44,"h":37},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Butterfly.png":
+{
+	"frame": {"x":65,"y":32,"w":27,"h":33},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":27,"h":33},
+	"sourceSize": {"w":27,"h":33},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Christmas Hat.png":
+{
+	"frame": {"x":50,"y":198,"w":37,"h":61},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":37,"h":61},
+	"sourceSize": {"w":37,"h":61},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Decoration Object.png":
+{
+	"frame": {"x":39,"y":32,"w":24,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":24,"h":32},
+	"sourceSize": {"w":24,"h":32},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Dolphin Drawing.png":
+{
+	"frame": {"x":77,"y":2,"w":31,"h":28},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":31,"h":28},
+	"sourceSize": {"w":31,"h":28},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Eagle Helmet.png":
+{
+	"frame": {"x":2,"y":261,"w":45,"h":66},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":45,"h":66},
+	"sourceSize": {"w":45,"h":66},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Glasses.png":
+{
+	"frame": {"x":2,"y":198,"w":46,"h":56},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":46,"h":56},
+	"sourceSize": {"w":46,"h":56},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Glove.png":
+{
+	"frame": {"x":2,"y":2,"w":38,"h":20},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":38,"h":20},
+	"sourceSize": {"w":38,"h":20},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Key.png":
+{
+	"frame": {"x":2,"y":32,"w":35,"h":29},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":35,"h":29},
+	"sourceSize": {"w":35,"h":29},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Magicians Hat.png":
+{
+	"frame": {"x":36,"y":147,"w":38,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":38,"h":43},
+	"sourceSize": {"w":38,"h":43},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Paper Drawing.png":
+{
+	"frame": {"x":49,"y":261,"w":43,"h":67},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":43,"h":67},
+	"sourceSize": {"w":43,"h":67},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Paper Scrolle.png":
+{
+	"frame": {"x":42,"y":2,"w":33,"h":20},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":33,"h":20},
+	"sourceSize": {"w":33,"h":20},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Picture.png":
+{
+	"frame": {"x":42,"y":330,"w":43,"h":83},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":43,"h":83},
+	"sourceSize": {"w":43,"h":83},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Sweets.png":
+{
+	"frame": {"x":2,"y":67,"w":42,"h":33},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":42,"h":33},
+	"sourceSize": {"w":42,"h":33},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Teddy Bear.png":
+{
+	"frame": {"x":2,"y":330,"w":38,"h":68},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":38,"h":68},
+	"sourceSize": {"w":38,"h":68},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Toy Elephant.png":
+{
+	"frame": {"x":2,"y":147,"w":32,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":43},
+	"sourceSize": {"w":32,"h":43},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Toy Taj Mahal.png":
+{
+	"frame": {"x":46,"y":67,"w":35,"h":33},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":35,"h":33},
+	"sourceSize": {"w":35,"h":33},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Vessel.png":
+{
+	"frame": {"x":76,"y":147,"w":31,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":31,"h":49},
+	"sourceSize": {"w":31,"h":49},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "sheet4.png",
+	"format": "RGBA8888",
+	"size": {"w":110,"h":475},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:12bbf7d0c7c3bdfa0fbcd7c6edd3fa51:81cbc14d8b01b76130de8615ac5e3d58:dc15d924a001eb34ef58ff6d02c9fa42$"
+}
+}

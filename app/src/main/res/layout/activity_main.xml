@@ -1,0 +1,175 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    tools:context="com.mhog.mobilehiddenobjectgames14cs6190d8d7.activities.MainActivity"
+    android:background="@drawable/mainbg">
+
+    <FrameLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/flMenuList"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:background="@drawable/mainmenu"
+        android:visibility="gone">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="My Things !!!"
+            android:id="@+id/tvMyThings"
+            android:layout_gravity="center_horizontal|top"
+            android:layout_marginTop="59dp"
+            android:textColor="#FFFFFF"
+            android:textSize="18sp" />
+
+        <Button
+            android:layout_width="115dp"
+            android:layout_height="21dp"
+            android:text="New Game"
+            android:id="@+id/btnNewGame"
+            android:layout_gravity="center"
+            android:textColor="#59031d"
+            android:layout_marginBottom="23dp"
+            android:background="@drawable/mainmenubuttons"
+            android:textSize="15sp" />
+
+        <Button
+            android:layout_width="115dp"
+            android:layout_height="21dp"
+            android:text="Continue"
+            android:enabled="true"
+            android:id="@+id/btnContinue"
+            android:layout_gravity="center"
+            android:textColor="#59031d"
+            android:textSize="15sp"
+            android:background="@drawable/mainmenubuttons"
+            android:layout_marginTop="21dp" />
+
+        <Button
+            android:layout_width="115dp"
+            android:layout_height="21dp"
+            android:text="High Score"
+            android:id="@+id/btnHighScore"
+            android:layout_gravity="center"
+            android:layout_marginTop="65dp"
+            android:textColor="#59031d"
+            android:background="@drawable/mainmenubuttons"
+            android:textSize="15sp" />
+
+        <Button
+            android:layout_width="115dp"
+            android:layout_height="21dp"
+            android:text="Exit"
+            android:id="@+id/btnExit"
+            android:layout_gravity="center_horizontal|bottom"
+            android:textColor="#59031d"
+            android:textSize="15sp"
+            android:background="@drawable/mainmenubuttons"
+            android:layout_marginBottom="39dp" />
+    </FrameLayout>
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="85dp"
+        android:layout_marginBottom="60dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:visibility="gone"
+        android:background="@drawable/highscore"
+        android:id="@+id/flHighScore"
+        android:paddingBottom="5dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="High Score"
+            android:id="@+id/tvHighScoreHeading"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="20dp"
+            android:textColor="#FFFFFF"
+            android:textSize="36sp" />
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_marginLeft="4dp"
+            android:layout_marginRight="4dp"
+            android:layout_height="2dp"
+            android:background="#FFFFFF"
+            android:id="@+id/viewLine"
+            android:layout_below="@+id/tvHighScoreHeading" />
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/linearLayout"
+            android:layout_below="@+id/viewLine"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_marginTop="5dp">
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="#"
+                android:id="@+id/tvHighScoreSerialHeading"
+                android:gravity="center"
+                android:textColor="#FFFFFF"
+                android:layout_weight="1"
+                android:textSize="18sp" />
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="P.Name"
+                android:id="@+id/tvPlayerNameHeading"
+                android:gravity="center"
+                android:textColor="#FFFFFF"
+                android:layout_weight="1"
+                android:textSize="18sp" />
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="Score"
+                android:gravity="center"
+                android:id="@+id/tvScoreHeading"
+                android:textColor="#FFFFFF"
+                android:layout_weight="1"
+                android:textSize="18sp" />
+        </LinearLayout>
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_marginLeft="4dp"
+            android:layout_marginRight="4dp"
+            android:layout_marginTop="4dp"
+            android:layout_marginBottom="4dp"
+            android:layout_height="2dp"
+            android:background="#FFFFFF"
+            android:id="@+id/viewLine2"
+            android:layout_below="@+id/linearLayout"
+            />
+
+        <ListView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/lvHighScore"
+            android:layout_below="@+id/viewLine2"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:visibility="visible" />
+    </RelativeLayout>
+
+
+
+</RelativeLayout>

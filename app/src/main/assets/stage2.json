@@ -1,0 +1,192 @@
+{"frames": {
+
+"Bananas.png":
+{
+	"frame": {"x":161,"y":2,"w":45,"h":41},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":45,"h":41},
+	"sourceSize": {"w":45,"h":41},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Book.png":
+{
+	"frame": {"x":58,"y":2,"w":30,"h":35},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":0,"w":30,"h":35},
+	"sourceSize": {"w":35,"h":39},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Candle stand.png":
+{
+	"frame": {"x":82,"y":171,"w":69,"h":79},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":69,"h":79},
+	"sourceSize": {"w":73,"h":79},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Chiles.png":
+{
+	"frame": {"x":2,"y":171,"w":78,"h":75},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":78,"h":75},
+	"sourceSize": {"w":78,"h":75},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Dumber.png":
+{
+	"frame": {"x":55,"y":106,"w":64,"h":62},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":62},
+	"sourceSize": {"w":64,"h":62},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Fancy Frame.png":
+{
+	"frame": {"x":122,"y":255,"w":99,"h":130},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":99,"h":130},
+	"sourceSize": {"w":99,"h":130},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Glass Tube.png":
+{
+	"frame": {"x":21,"y":2,"w":35,"h":16},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":35,"h":16},
+	"sourceSize": {"w":35,"h":16},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Green Apples.png":
+{
+	"frame": {"x":110,"y":2,"w":49,"h":40},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":49,"h":40},
+	"sourceSize": {"w":49,"h":40},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Grocery Bucket.png":
+{
+	"frame": {"x":142,"y":106,"w":48,"h":63},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":48,"h":63},
+	"sourceSize": {"w":48,"h":63},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Leaver.png":
+{
+	"frame": {"x":2,"y":45,"w":26,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":26,"h":43},
+	"sourceSize": {"w":26,"h":43},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Long Hat.png":
+{
+	"frame": {"x":2,"y":106,"w":51,"h":59},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":51,"h":59},
+	"sourceSize": {"w":51,"h":63},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Metal Plate.png":
+{
+	"frame": {"x":95,"y":45,"w":82,"h":48},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":82,"h":48},
+	"sourceSize": {"w":82,"h":48},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Pistol.png":
+{
+	"frame": {"x":30,"y":45,"w":63,"h":44},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":63,"h":44},
+	"sourceSize": {"w":63,"h":44},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Scarf.png":
+{
+	"frame": {"x":2,"y":255,"w":55,"h":118},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":55,"h":118},
+	"sourceSize": {"w":55,"h":118},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Socks.png":
+{
+	"frame": {"x":121,"y":106,"w":19,"h":62},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":19,"h":62},
+	"sourceSize": {"w":19,"h":62},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Table Clock.png":
+{
+	"frame": {"x":90,"y":2,"w":18,"h":37},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":18,"h":37},
+	"sourceSize": {"w":18,"h":37},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Tiger Head.png":
+{
+	"frame": {"x":179,"y":45,"w":45,"h":59},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":45,"h":59},
+	"sourceSize": {"w":45,"h":59},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Toy Car.png":
+{
+	"frame": {"x":2,"y":2,"w":17,"h":16},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":17,"h":16},
+	"sourceSize": {"w":17,"h":16},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Violin.png":
+{
+	"frame": {"x":59,"y":255,"w":61,"h":124},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":61,"h":124},
+	"sourceSize": {"w":61,"h":124},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Witch Hat.png":
+{
+	"frame": {"x":153,"y":171,"w":73,"h":82},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":73,"h":82},
+	"sourceSize": {"w":73,"h":82},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "sheet2.png",
+	"format": "RGBA8888",
+	"size": {"w":228,"h":408},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:7d71aefba9c8323bec5c7e9a1d049539:5e89ba75f8d5e126b80ffcd17a5501cb:31fe2bf20a08731d405b4ef945d951ac$"
+}
+}
